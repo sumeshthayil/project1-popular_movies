@@ -155,7 +155,7 @@ public class MainActivityFragment extends Fragment {
                     getString(R.string.pref_sort_key),
                     getString(R.string.pref_sort_order_popularity));
 
-            String app_key = "put key here";
+            String app_key = "put_key_here";
 
             try {
 
